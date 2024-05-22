@@ -117,19 +117,19 @@
     height: 50px;
 }
 
-#header {
+.header {
     background-color: #EECFA2;
     width: 100%;
     height: 41%;
     padding-top: 27px;
 }
 
-#header.pillar {
+.header.pillar {
     height: auto;
     padding-bottom: 25px;
 }
 
-#main {
+.main {
     background-color: #84B385;
     width: 78%;
     max-width: 1230px;
