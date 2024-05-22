@@ -138,7 +138,7 @@
     margin-top: -4.5%;
     border-radius: 43px;
     box-shadow: 0px 4px 10px 6px #00000057;
-    transition: 200ms;
+    transition: 1000ms ease-in-out;
 }
 
 .return {
@@ -148,7 +148,7 @@
     border-radius: 12px;
     left: 3%;
     top: 11%;
-    transition: 200ms;
+    transition: 1000ms ease-in-out;
 }
 
 .return:hover {
