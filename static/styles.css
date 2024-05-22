@@ -141,7 +141,7 @@
     transition: 200ms;
 }
 
-#main.return {
+.return {
     position: absolute;
     width: 250px;
     height: 70px;
@@ -151,7 +151,7 @@
     transition: 200ms;
 }
 
-#main.return:hover {
+.return:hover {
     background-color: #66a567;
     box-shadow: 0px 4px 10px 6px #00000078;
     transition: 200ms;
