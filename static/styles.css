@@ -164,6 +164,7 @@
     top: 13px;
     font-size: 30px;
     font-weight: 200;
+    cursor: pointer;
 }
 
 .gone {
