@@ -207,7 +207,7 @@
 
 }
 
-.preLoad {
+.preLoaded {
     opacity: 0;
     transition: 250ms;
 }
