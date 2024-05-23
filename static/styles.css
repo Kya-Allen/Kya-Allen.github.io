@@ -26,6 +26,17 @@
     font-style: italic;
 }
 
+#foreground {
+    background-color: #EFC88D;
+    position: relative;
+    height: 100vh;
+    max-width: 80%;
+    width: 70%;
+    box-shadow: 0px 0px 60px 22px #0000007d;
+    top: 0;
+    margin: 0 auto;
+}
+
 #name-tag {
     margin: 0 auto;
     width: fit-content;
